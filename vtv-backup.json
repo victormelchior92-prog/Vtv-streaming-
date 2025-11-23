@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "exportedAt": "2025-11-23T16:29:57.422Z",
+  "users": [
+    {
+      "id": "admin-001",
+      "email": "victormelchior92@gmail.com",
+      "pin": "2008",
+      "role": "ADMIN",
+      "name": "Victor Admin",
+      "status": "ACTIVE",
+      "subscriptionEnd": "2099-12-31T23:59:59.999Z"
+    }
+  ],
+  "content": [
+    {
+      "id": "1",
+      "title": "Cyber Future",
+      "description": "In 2077, a hacker discovers a conspiracy that threatens the very fabric of reality.",
+      "type": "movie",
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "thumbnailUrl": "https://picsum.photos/300/450?random=1",
+      "backdropUrl": "https://picsum.photos/1920/1080?random=1",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "cast": [],
+      "rating": 4.8,
+      "year": 2024,
+      "isTop10": true,
+      "dateAdded": "2025-11-23T16:29:01.238Z"
+    },
+    {
+      "id": "2",
+      "title": "The Deep Ocean",
+      "description": "A documentary crew finds something ancient in the Mariana Trench.",
+      "type": "series",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "thumbnailUrl": "https://picsum.photos/300/450?random=2",
+      "backdropUrl": "https://picsum.photos/1920/1080?random=2",
+      "episodes": [
+        {
+          "id": "e1",
+          "title": "The Descent",
+          "duration": "45m",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "id": "e2",
+          "title": "First Contact",
+          "duration": "42m",
+          "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+        }
+      ],
+      "cast": [],
+      "rating": 4.5,
+      "year": 2023,
+      "isTop10": true,
+      "dateAdded": "2025-11-23T16:29:01.255Z"
+    }
+  ]
+}
